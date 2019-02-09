@@ -10,3 +10,12 @@ Install turtlebot simulation stack
 ```
 sudo apt install ros-kinetic-turtlebot-gazebo 
 ```
+# Run
+Start the simulator
+```
+roslaunch turtlebot_gazebo turtlebot_world.launch
+```
+Control node
+```
+./red_light_green_light.py cmd_vel:=cmd_vel_mux/input/teleop
+```
