@@ -1,4 +1,4 @@
 # wanderbot
 Programming Robots in ROS - wanderbot package
 
-[wanderbot wiki](https://github.com/NathanaelGandhi/wanderbot/wiki)
+To use this package check out the wiki: [wanderbot wiki](https://github.com/NathanaelGandhi/wanderbot/wiki)
